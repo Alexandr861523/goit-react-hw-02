@@ -5,7 +5,7 @@
     font-size: 64px;
     line-height: 1.25;
     letter-spacing: 0.03em;
-    color: rgb(161, 117, 117);
+    color: white;
 
 }
 
@@ -16,6 +16,6 @@
     font-size: 24px;
     line-height: 1.55556;
     letter-spacing: 0.03em;
-    color: rgb(74, 74, 104);
+    color: gray;
     margin-bottom: 100px;
 }
